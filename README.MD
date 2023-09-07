@@ -17,7 +17,7 @@ Este é um projeto Python simples que permite ao usuário interagir com um gráf
 + Siga as opções do menu para interagir com o gráfico conforme desejar.
 
  
-
+## Exemplo
 ```Python
 Valores do eixo X: []
 Valores do eixo Y: []
